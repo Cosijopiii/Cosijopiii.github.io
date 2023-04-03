@@ -5,11 +5,11 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a> 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>1113 office number</p>
-    <p>123 Luis Enrique Erro \#1,t</p>
+    <p> Luis Enrique Erro \#1</p>
     <p> Sta María Tonanzintla, 72840 San Andrés Cholula, Pue.</p>
 
 news: False  # includes a list of news items
