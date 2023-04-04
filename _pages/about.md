@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IEEE Student Member
+subtitle: IEEE Student Member,  IEEE CIS Member
 profile:
   align: right
   image: prof_pic.jpeg
