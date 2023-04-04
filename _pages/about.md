@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a> 
+subtitle: IEEE Student Member
 profile:
   align: right
   image: prof_pic.jpeg
@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cosijopii Garcia Garcia is a highly skilled researcher in the field of Evolutionary Computation. He is currently pursuing a PhD at [INAOE]("https://www.inaoep.mx/), where his research focuses on Multi-Objective Optimization Problems (MOPs) and Multi-Objective Neural Architecture Search (NAS), as well as Cellular approaches for parallelized Genetic Algorithms.
+Cosijopii Garcia Garcia is a researcher in the field of Evolutionary Computation. He is currently pursuing a PhD at [INAOE]("https://www.inaoep.mx/), where his research focuses on Multi-Objective Optimization Problems (MOPs) and Multi-Objective Neural Architecture Search (NAS), as well as Cellular approaches for parallelized Genetic Algorithms in MOPs.
 
-Cosijopii has extensive experience in using optimization techniques such as Genetic Algorithms (GA), Genetic Programming (GP), Cartesian Genetic Programming (CGP), and Differential Evolution (DE), as well as metaheuristics like Particle Swarm Optimization (PSO) to solve complex problems. His work with cellular approaches for parallelized Genetic Algorithms has enabled him to efficiently parallelize the optimization process and achieve faster convergence times.
+Cosijopii has extensive experience in using optimization techniques such as Genetic Algorithms (GA), Genetic Programming (GP), Cartesian Genetic Programming (CGP), and Differential Evolution (DE), as well as metaheuristics like Particle Swarm Optimization (PSO) to solve complex problems.
 
 He also possesses a strong background in Machine Learning (ML) and Deep Learning, which enables him to apply these techniques to solve real-world problems in a variety of domains. Cosijopii's research interests include constrained optimization, multi-objective optimization, and optimization in machine learning. He has published several papers in top-tier conferences and journals, and his work has been recognized for its innovative approaches and significant contributions to the field.
 
