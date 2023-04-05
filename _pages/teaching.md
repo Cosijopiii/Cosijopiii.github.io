@@ -9,5 +9,5 @@ nav_order: 5
 
 #Evolutionary multi-objective optimization
 
-You can donwload the slides [here]
+You can donwload the slides [here](/assets/pdf/CI_Evocom.pdf)
 
