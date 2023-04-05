@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: CGP-NAS
+description: Cartesian genetic programming - Neural architecture search
+img: assets/img/Pareto.png
 importance: 1
 category: work
 ---
