@@ -6,7 +6,7 @@ subtitle: IEEE Student Member,  IEEE CIS Member
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>1113 office number</p>
     <p> Luis Enrique Erro \#1</p>
