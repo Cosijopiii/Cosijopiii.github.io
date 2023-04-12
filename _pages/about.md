@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: IEEE Student Member,  IEEE CIS Member
+subtitle: Member of the Mexico-France Research Network, IEEE Student Member,  IEEE CIS Member 
 profile:
   align: left
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>office number: 1113 </p>
+    <p> 1113 office number</p>
     <p> Luis Enrique Erro \#1</p>
     <p> Sta María Tonanzintla, 72840 San Andrés Cholula, Pue.</p>
 
