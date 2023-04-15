@@ -23,7 +23,7 @@
   contents:
     - title: Evolutionary computation.
       items: 
-        - multiobjective  evolutionary computation.
+        - Multiobjective  evolutionary computation.
         - Evolutionary Neural Architecture Search.
         - Constrained multiobjective  evolutionary computation
 
