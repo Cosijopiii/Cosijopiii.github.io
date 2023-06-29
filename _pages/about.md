@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Member of the Mexico-France Research Network (MUFRAMEX), IEEE Student Member,  IEEE CIS Member 
+subtitle: IEEE Student Member,  IEEE CIS Member and Member of the Mexico-France Research Network (MUFRAMEX)
 profile:
   align: left
   image: prof_pic.jpeg
@@ -12,7 +12,7 @@ profile:
     <p> Luis Enrique Erro \#1</p>
     <p> Sta María Tonanzintla, 72840 San Andrés Cholula, Pue.</p>
 
-news: False  # includes a list of news items
+news: True  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
