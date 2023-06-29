@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Poster will be presented in the CVPR LatinX IA Worshop.
+Our Poster will be presented in the CVPR LatinX  I A  Worshop.    
