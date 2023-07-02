@@ -11,13 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD Computer Science
       institution:  Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico.
       year: 2024
-    - title: MSc
+    - title: MSc Computer Science
       institution: Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico.
       year: 2020
-      
+      - title: B.S. Informatics 
+      institution: Universidad del Istmo, Campus Ixtepec, Oaxaca, Mexico. 
+      year: 2018
 - title: Academic Interests
   type: nested_list
   contents:
