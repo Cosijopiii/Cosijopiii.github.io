@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> 1113 office number</p>
+    <p> 9211 office number</p>
     <p> Luis Enrique Erro \#1</p>
     <p> Sta María Tonanzintla, 72840 San Andrés Cholula, Pue.</p>
 
