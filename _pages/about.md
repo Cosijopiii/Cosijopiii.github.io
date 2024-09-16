@@ -5,7 +5,7 @@ permalink: /
 subtitle: IEEE Student Member,  IEEE CIS Member and Member of the Mexico-France Research Network (MUFRAMEX)
 profile:
   align: left
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> 9211 office number</p>
