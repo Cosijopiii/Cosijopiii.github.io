@@ -2,7 +2,7 @@
 layout: page
 title:  Computational Intelligence - INAOE
 description: Evolutionary multi-objective optimization - Computational Intelligence
-img: assets/img/Pareto.png
+img:
 importance: 1
 category: work
 ---
