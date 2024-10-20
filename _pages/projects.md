@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: 
+title: Teaching
+permalink: /Teaching/
+description:  Materials for courses 
 nav: true
 nav_order: 2
 display_categories: [work, fun]

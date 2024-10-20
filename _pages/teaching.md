@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /teachingOLD/
+title: TeachingOLD
 description: Materials for courses 
 nav: true
 nav_order: 5

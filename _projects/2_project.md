@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Quantum Communications Constellations
-description:  This challenge is part of the SpOC (Space Optimisation Challenge) organised by ESA's Advanced Concepts Team and hosted in GECCO 2023.
-img: assets/img/Quam.jpg
+title:  Computational Intelligence
+description: Evolutionary multi-objective optimization - Computational Intelligence
+img: assets/img/Pareto.png
 importance: 1
 category: work
 ---
 
- 
+2023 - Evolutionary multi-objective optimization - Computational Intelligence
+
+You can donwload the slides [here](/assets/pdf/CI_Evocom.pdf)
