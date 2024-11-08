@@ -25,4 +25,6 @@ category: work
 >> Intro, Stacks and Postfix and Prefix notation [here](/assets/pdf/EdC1.pdf)
 >>
 >> C and Queues slides [here](/assets/pdf/ED.pdf)
->
+>>
+>> Linked_List code [here](/assets/Code/Linked_List.c)
+>> 
