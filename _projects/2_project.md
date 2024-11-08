@@ -20,7 +20,7 @@ category: work
 ## 2024 - Paradigmas de programacion 2
 >
 >Material
->>Intro and Search [here](/assets/pdf/PPII.pdf)
+>>POO Slides [here](/assets/pdf/PPII.pdf)
 >
 
 ## 2024 - Estructura de datos
