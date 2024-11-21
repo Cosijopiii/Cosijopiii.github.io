@@ -31,4 +31,7 @@ category: work
 >> C and Queues slides [here](/assets/pdf/ED.pdf)
 >>
 >> Linked_List code [here](/assets/Code/Linked_List.c)
+>>
+>> Linked List to Sorting Slides [here](/assets/pdf/ED2.pdf)
+>>
 >> 
