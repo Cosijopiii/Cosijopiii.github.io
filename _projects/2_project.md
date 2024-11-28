@@ -13,6 +13,8 @@ category: work
 >
 >Material
 >>Intro and Search [here](/assets/pdf/Inteligencia_artificial_I.pdf)
+>>Evolutionary computation [here](/assets/pdf/CEVO.pdf) and Metaheuristcs  [here](/assets/pdf/MetaH.pdf)
+>>
 >
 
 ## 2024 - Tecnologias de la información
