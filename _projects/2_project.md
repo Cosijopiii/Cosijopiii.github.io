@@ -38,5 +38,5 @@ category: work
 >>
 >> Searchs [Here](/assets/pdf/ED3.pdf)
 >>
->> Graphs [Here]()
+>> Graphs [Here](/assets/pdf/GrafosED.pdf)
 >> 
