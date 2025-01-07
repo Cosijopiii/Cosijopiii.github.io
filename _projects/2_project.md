@@ -39,4 +39,7 @@ category: work
 >> Searchs [Here](/assets/pdf/ED3.pdf)
 >>
 >> Graphs [Here](/assets/pdf/GrafosED.pdf)
+>>
+>> Dijkstra [Here](/assets/pdf/Dijkstra_ED_P3.pdf)
+>>
 >> 
