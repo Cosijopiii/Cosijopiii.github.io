@@ -7,13 +7,17 @@ importance: 1
 category: work
 ---
 
-# Curso 2024B - 2025A
+# Curso 2024B
 
 ## 2024 - Inteligencia artificial
 >
 >Material
 >>Intro and Search [here](/assets/pdf/Inteligencia_artificial_I.pdf)
->>Evolutionary computation [here](/assets/pdf/CEVO.pdf) and Metaheuristcs  [here](/assets/pdf/MetaH.pdf)
+>>
+>>Evolutionary computation [here](/assets/pdf/CEVO.pdf)
+>>
+>> Metaheuristcs  [here](/assets/pdf/MetaH.pdf)
+>>
 >>
 >
 
@@ -23,7 +27,9 @@ category: work
 >
 >Material
 >>POO Slides [here](/assets/pdf/PPII.pdf)
->
+>>
+>>
+>>
 
 ## 2024 - Estructura de datos
 
