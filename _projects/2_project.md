@@ -18,8 +18,15 @@ category: work
 >>
 >> Metaheuristcs  [here](/assets/pdf/MetaH.pdf)
 >>
+>>ID3 [Here](/assets/pdf/ID3.pdf)
 >>
->
+>>SVM [Here](/assets/pdf/SVM_AI.pdf)
+>>
+>>Naive Bayes & K-Means [Here](/assets/pdf/Bayes_Kmeans.pdf)
+>>
+>>Neural Networks[Here](/assets/pdf/RNA_p3_IA.pdf)
+>>
+>>IA_bundle_codes[Here](/assets/Code/IA_bundle.zip)
 
 ## 2024 - Tecnologias de la información
 
@@ -28,7 +35,9 @@ category: work
 >Material
 >>POO Slides [here](/assets/pdf/PPII.pdf)
 >>
+>>Patterns [Here](/assets/pdf/Patrones_POO2.pdf)
 >>
+>>Streams and lambdas [Here](/assets/pdf/Java_8.pdf)
 >>
 
 ## 2024 - Estructura de datos
@@ -48,4 +57,5 @@ category: work
 >>
 >> Dijkstra [Here](/assets/pdf/Dijkstra_ED_P3.pdf)
 >>
+>> Arboles [Here](/assets/pdf/Arboles_ED_P3.pdf)
 >> 
