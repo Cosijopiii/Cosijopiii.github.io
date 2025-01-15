@@ -20,7 +20,7 @@ category: work
 >>
 >>ID3 [Here](/assets/pdf/ID3.pdf)
 >>
->>SVM [Here](/assets/pdf/SVM_AI.pdf)
+>>SVM [Here](/assets/pdf/SVM_IA.pdf)
 >>
 >>Naive Bayes & K-Means [Here](/assets/pdf/Bayes_Kmeans.pdf)
 >>
