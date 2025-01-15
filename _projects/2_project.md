@@ -57,5 +57,5 @@ category: work
 >>
 >> Dijkstra [Here](/assets/pdf/Dijkstra_ED_P3.pdf)
 >>
->> Arboles [Here](/assets/pdf/Arboles_ED_P3.pdf)
+>> Trees [Here](/assets/pdf/Arboles_ED_P3.pdf)
 >> 
