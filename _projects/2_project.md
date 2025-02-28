@@ -6,10 +6,21 @@ img:
 importance: 1
 category: work
 ---
+# Curso 2024-2025B
 
-# Curso 2024B
+## Ingenieria de Software II
 
-## 2024 - Inteligencia artificial
+## Estructura de Datos 
+
+## Inteligencia Artificial II
+
+## Sistemas Distribuidos
+
+
+
+# Curso 2024-2025A
+
+## 2024-2025A - Inteligencia artificial
 >
 >Material
 >>Intro and Search [here](/assets/pdf/Inteligencia_artificial_I.pdf)
@@ -28,9 +39,9 @@ category: work
 >>
 >>IA_bundle_codes[Here](/assets/Code/IA_bundle.zip)
 
-## 2024 - Tecnologias de la información
+## 2024-2025A - Tecnologias de la información
 
-## 2024 - Paradigmas de programacion 2
+## 2024-2025A - Paradigmas de programacion 2
 >
 >Material
 >>POO Slides [here](/assets/pdf/PPII.pdf)
@@ -40,7 +51,7 @@ category: work
 >>Streams and lambdas [Here](/assets/pdf/Java_8.pdf)
 >>
 
-## 2024 - Estructura de datos
+## 2024-2025A - Estructura de datos
 
 >Material
 >> Intro, Stacks and Postfix and Prefix notation [here](/assets/pdf/EdC1.pdf)
