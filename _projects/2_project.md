@@ -13,6 +13,7 @@ category: work
 ## Estructura de Datos 
 >Material
 >>Intro and Data Types [here](/assets/pdf/Estructura_de_datos_IDSSI.pdf)
+>>
 >>Linked List to Sorting Slides [here](/assets/pdf/ED2.pdf)
 >>
 >>
