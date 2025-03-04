@@ -23,7 +23,9 @@ category: work
 ## Inteligencia Artificial II
 
 ## Sistemas Distribuidos
-
+>Material
+>>Intro   [here](/assets/pdf/Sistemas_Distribuidos_U1.pdf)
+>>
 
 
 # Curso 2024-2025A
