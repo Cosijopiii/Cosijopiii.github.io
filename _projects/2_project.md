@@ -24,6 +24,8 @@ category: work
 
 ## Sistemas Distribuidos
 >Material
+>> Github Repository: [here](https://github.com/Cosijopiii/Distribuidted-system-Class)
+>>
 >>Intro   [here](/assets/pdf/Sistemas_Distribuidos_U1.pdf)
 >>
 
