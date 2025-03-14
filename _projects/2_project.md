@@ -28,6 +28,7 @@ category: work
 >>
 >>Intro   [here](/assets/pdf/Sistemas_Distribuidos_U1.pdf)
 >>
+>> Events [here](/assets/pdf/Sistemas_Distribuidos_20242025B.pdf)
 
 
 # Curso 2024-2025A
