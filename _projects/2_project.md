@@ -17,6 +17,7 @@ category: work
 >>
 >>Linked List to Sorting Slides [here](/assets/pdf/ED2.pdf)
 >>
+>>BFS and DFS [here](/assets/pdf/BFSDFS.pdf)
 
 
 
