@@ -18,6 +18,8 @@ category: work
 >>Linked List to Sorting Slides [here](/assets/pdf/ED2.pdf)
 >>
 >>BFS and DFS [here](/assets/pdf/BFSDFS.pdf)
+>>
+>>[Dijkstra](/assets/code/dijkstra.c), [Floyd]((/assets/code/floydWarshall.c)) and [Bellmand-Ford](/assets/code/BellmanFord.c)
 
 
 
