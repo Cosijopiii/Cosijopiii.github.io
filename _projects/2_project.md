@@ -19,7 +19,7 @@ category: work
 >>
 >>BFS and DFS [here](/assets/pdf/BFSDFS.pdf)
 >>
->>[Dijkstra](/assets/code/dijkstra.c), [Floyd]((/assets/code/floydWarshall.c)) and [Bellmand-Ford](/assets/code/BellmanFord.c)
+>>[Dijkstra](/assets/Code/dijkstra.c), [Floyd]((/assets/Code/floydWarshall.c)) and [Bellmand-Ford](/assets/Code/BellmanFord.c)
 
 
 
