@@ -10,11 +10,11 @@ category: work
 
 ## Teoría de Algoritmos y Complejidad
 > Material
->> Libro : Introduction To The Theory Of Computation 3er ed- Michael Sipser
+>> Libro : Introduction To The Theory Of Computation 3er ed - Michael Sipser
 
 ## Metodología de la Investigación
 > Material
->> Libro : Metodología de la investigación 6a-  - Roberto Hernández Sampieri
+>> Libro : Metodología de la investigación 6a - Roberto Hernández Sampieri
 
 # Curso 2024-2025B
 
