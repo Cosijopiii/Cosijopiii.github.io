@@ -6,6 +6,16 @@ img:
 importance: 1
 category: work
 ---
+# Curso 2025-2026A
+
+## Teoría de Algoritmos y Complejidad
+> Material
+>> Libro : Introduction To The Theory Of Computation 3er ed- Michael Sipser
+
+## Metodología de la Investigación
+> Material
+>> Libro : Metodología de la investigación 6a-  - Roberto Hernández Sampieri
+
 # Curso 2024-2025B
 
 ## Ingenieria de Software II
