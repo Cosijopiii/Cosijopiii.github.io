@@ -15,6 +15,7 @@ category: work
 ## Metodología de la Investigación
 > Material
 >> Libro : Metodología de la investigación 6a - Roberto Hernández Sampieri
+>> 
 >> Investigación Cualitativa Slides [here](/assets/pdf/U_2.pdf)
 # Curso 2024-2025B
 
