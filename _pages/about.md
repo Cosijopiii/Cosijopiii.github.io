@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate professor, IEEE Student Member,  IEEE CIS Member and Member of the Mexico-France Research Network (MUFRAMEX)
+subtitle: Associate professor, IEEE Member,  IEEE CIS Member and Member of the Mexico-France Research Network (MUFRAMEX)
 profile:
   align: left
   image: prof_pic.jpg
