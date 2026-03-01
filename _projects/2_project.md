@@ -6,6 +6,18 @@ img:
 importance: 1
 category: work
 ---
+
+
+# Curso 2025-2026B
+[Registrate](https://forms.gle/7bvpM524Vx53GyXt9)
+
+## Estructura de Datos
+
+## Inteligencia Artificial II
+
+## Seminario de Tesis
+
+
 # Curso 2025-2026A
 
 ## Teoría de Algoritmos y Complejidad
