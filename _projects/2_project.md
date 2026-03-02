@@ -15,7 +15,8 @@ category: work
 >Material
 >> Tipos de Datos y Estructuras [here](/assets/pdf/Estructura_de_datos_IDSSI.pdf)
 ## Inteligencia Artificial II
-
+>Material
+>> Libro An Introduction to Statistical Learning  y Slides [Here](https://www.statlearning.com/)
 ## Seminario de Tesis
 
 
