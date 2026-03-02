@@ -12,7 +12,8 @@ category: work
 [Registrate](https://forms.gle/7bvpM524Vx53GyXt9)
 
 ## Estructura de Datos
-
+>Material
+>> Tipos de Datos y Estructuras [here](/assets/pdf/Estructura_de_datos_IDSSI.pdf)
 ## Inteligencia Artificial II
 
 ## Seminario de Tesis
