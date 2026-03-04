@@ -14,6 +14,9 @@ category: work
 ## Estructura de Datos
 >Material
 >> Tipos de Datos y Estructuras [here](/assets/pdf/Estructura_de_datos_IDSSI.pdf)
+>> 
+>> Pilas
+>>> codigo [Stacks](/assets/Code/stack_basic.c)
 ## Inteligencia Artificial II
 >Material
 >> Libro An Introduction to Statistical Learning  y Slides [Here](https://www.statlearning.com/)
