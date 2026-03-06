@@ -17,6 +17,7 @@ category: work
 >> 
 >> Pilas
 >>> codigo [Stacks](/assets/Code/stack_basic.c)
+
 ## Inteligencia Artificial II
 >Material
 >> Libro An Introduction to Statistical Learning  y Slides [Here](https://www.statlearning.com/)
