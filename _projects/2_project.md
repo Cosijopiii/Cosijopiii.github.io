@@ -21,6 +21,7 @@ category: work
 ## Inteligencia Artificial II
 >Material
 >> Libro An Introduction to Statistical Learning  y Slides [Here](https://www.statlearning.com/)
+
 ## Seminario de Tesis
 
 
