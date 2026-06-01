@@ -17,6 +17,8 @@ category: work
 >> 
 >> Pilas
 >>> codigo [Stacks](/assets/Code/stack_basic.c)
+>>
+>> Arboles [here](/assets/pdf/tree.pdf)
 
 ## Inteligencia Artificial II
 >Material
