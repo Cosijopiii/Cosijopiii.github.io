@@ -12,12 +12,12 @@ category: work
 #### MONAS
 Ponencia titulada: **La IA que Diseña IA: Una Perspectiva de Optimización Multiobjetivo en NAS.**
 
-- [Descargar ponencia (MONAS)](/assets/pdf/MONAS.pdf)
+- [Descargar ponencia](/assets/pdf/MONAS.pdf)
 
 #### Optimización Multiobjetivo y Algoritmos Evolutivos (MOEAs): Fundamentos e Implementación con IA
 Tutorial impartido en el marco de la Semana de Ingeniería.
 
-- [Descargar tutorial (MOEAs)](/assets/pdf/Tutorial_MOP_MOEAS.pdf)
+- [Descargar tutorial](/assets/pdf/Tutorial_MOP_MOEAS.pdf)
 
 ---
 
