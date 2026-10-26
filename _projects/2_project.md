@@ -6,11 +6,11 @@ img:
 importance: 1
 category: work
 ---
-
-
+# Curso 2026-2027A
+  ## Modelos de optimización para toma de desiciones.
+  >> Problema de Transporte [here](/assets/pdf/transporte.pdf)
 # Curso 2025-2026B
-[Registrate](https://forms.gle/7bvpM524Vx53GyXt9)
-
+ 
 ## Estructura de Datos
 >Material
 >> Tipos de Datos y Estructuras [here](/assets/pdf/Estructura_de_datos_IDSSI.pdf)
