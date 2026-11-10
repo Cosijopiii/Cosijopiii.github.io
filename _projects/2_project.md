@@ -9,7 +9,11 @@ category: work
 # Curso 2026-2027A
 
 ## Modelos de optimización para toma de desiciones.
-  >> Problema de Transporte [here](/assets/pdf/transporte.pdf)
+  >> Problema de Transporte (Vogel)[here](/assets/pdf/transporte.pdf)
+  >> 
+  >> Metodo MODI [here](/assets/pdf/modi.pdf)
+  >>
+  >> Ejemplo Vogel + MODI   [here](/assets/pdf/modi2.pdf)
 
 # Curso 2025-2026B
  
