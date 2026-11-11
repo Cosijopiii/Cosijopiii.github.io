@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I attended the 2026 IEEE World Congress on Computational Intelligence (WCCI 2026) in Maastricht, the Netherlands, from 21 to 26 June 2026, where I presented *A Fitness Landscape Analysis of Multi-Objective Neural Architecture Search*.
+I attended the 2026 IEEE World Congress on Computational Intelligence (WCCI 2026) in Maastricht, the Netherlands, from 21 to 26 June 2026, where I presented [*A Fitness Landscape Analysis of Multi-Objective Neural Architecture Search*](https://ieeexplore.ieee.org/document/11727391/).
