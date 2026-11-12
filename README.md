@@ -1,5 +1,20 @@
 # al-folio
 
+## Adding photos to the About page
+
+Upload your photos to `assets/img/` on GitHub. In `_pages/about.md`, replace
+`photography: []` with a list like this (add one entry for each photo):
+
+```yaml
+photography:
+  - image: assets/img/my-photo.jpg
+    alt: Description of the photo
+    caption: Optional caption
+```
+
+Use your own filename and describe the image in `alt`; omit `caption` if you
+don't want one.
+
 ## Adding a research project
 
 Create a Markdown file in `_projects/` with `layout: page`, `title`, `description`,
