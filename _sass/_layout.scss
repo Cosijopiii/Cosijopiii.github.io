@@ -35,6 +35,31 @@ body.sticky-bottom-footer {
 
 // TODO: redefine content layout.
 
+.home-layout-with-news {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
+  gap: 2rem;
+}
+
+.home-news {
+  min-width: 0;
+
+  .table {
+    font-size: 0.875rem;
+  }
+
+  th {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .home-layout-with-news {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+}
+
 
 /******************************************************************************
  * Publications
