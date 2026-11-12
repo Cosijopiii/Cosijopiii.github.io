@@ -93,7 +93,7 @@ body.sticky-bottom-footer {
 
 .home-layout-with-news {
   display: grid;
-  grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
+  grid-template-columns: minmax(0, 3fr) minmax(0, 1fr);
   gap: 2rem;
 }
 
@@ -103,11 +103,12 @@ body.sticky-bottom-footer {
 .home-news .table {
   font-size: 0.875rem;
 }
-.home-news th {
-  white-space: nowrap;
+.home-news th, .home-news td {
+  display: block;
+  overflow-wrap: anywhere;
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 575.98px) {
   .home-layout-with-news {
     grid-template-columns: minmax(0, 1fr);
     gap: 1rem;
