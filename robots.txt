@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Cosijopiii.github.io/sitemap.xml
+Sitemap: https://i.github.io/sitemap.xml
