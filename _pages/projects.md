@@ -2,57 +2,33 @@
 layout: page
 title: Teaching
 permalink: /Teaching/
-description:  Materials for courses 
+description: Workshops, talks, and course materials
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: True
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+<div class="teaching-panels">
+  <section class="card teaching-panel">
+    <div class="card-body">
+      <h2>Workshops &amp; Talks</h2>
+      <p>Presentations, tutorials, and workshop materials.</p>
+      {% assign workshops = site.projects | where: "category", "workshops" | sort: "importance" %}
+      {% for project in workshops %}
+      <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+      <p>{{ project.description }}</p>
+      {% endfor %}
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+  </section>
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+  <section class="card teaching-panel">
+    <div class="card-body">
+      <h2>Courses</h2>
+      <p>Course materials organized by institution.</p>
+      {% assign courses = site.projects | where: "category", "courses" | sort: "importance" %}
+      {% for project in courses %}
+      <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+      <p>{{ project.description }}</p>
+      {% endfor %}
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
+  </section>
 </div>

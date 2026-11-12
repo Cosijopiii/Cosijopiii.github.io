@@ -4,7 +4,7 @@ title:  Universidad del Istmo
 description: Course material
 img: 
 importance: 1
-category: work
+category: courses
 ---
 # Curso 2026-2027A
 

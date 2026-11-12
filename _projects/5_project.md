@@ -4,7 +4,7 @@ title:  Computational Intelligence - INAOE
 description: Evolutionary multi-objective optimization - Computational Intelligence
 img:
 importance: 1
-category: work
+category: courses
 ---
 
 2023 - Evolutionary multi-objective optimization - Computational Intelligence
