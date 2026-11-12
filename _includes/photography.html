@@ -1,0 +1,12 @@
+{% if page.photography.size > 0 %}
+<div class="photography-gallery">
+  {% for photo in page.photography %}
+  <figure>
+    <img src="{{ photo.image | relative_url }}" alt="{{ photo.alt | escape }}" loading="lazy">
+    {% if photo.caption %}<figcaption>{{ photo.caption | escape }}</figcaption>{% endif %}
+  </figure>
+  {% endfor %}
+</div>
+{% else %}
+<p>Photos coming soon.</p>
+{% endif %}
