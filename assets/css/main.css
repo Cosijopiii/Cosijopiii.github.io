@@ -91,25 +91,9 @@ body.sticky-bottom-footer {
   width: 100%;
 }
 
-.photography-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr));
-  gap: 1rem;
-  margin-bottom: 1.5rem;
-}
-.photography-gallery figure {
-  margin: 0;
-}
-.photography-gallery img {
-  width: 100%;
-  aspect-ratio: 4/3;
-  object-fit: cover;
-  border-radius: 0.25rem;
-}
-.photography-gallery figcaption {
-  color: var(--global-text-color-light);
-  font-size: 0.875rem;
-  margin-top: 0.25rem;
+.beyond-research img {
+  max-width: 100%;
+  height: auto;
 }
 
 .home-news {
