@@ -1,19 +1,21 @@
 # al-folio
 
-## Adding photos to the About page
+## Adding photos to Beyond research
 
-Upload your photos to `assets/img/` on GitHub. In `_pages/about.md`, replace
-`photography: []` with a list like this (add one entry for each photo):
+Upload your photos to `assets/img/` on GitHub, then edit
+`_pages/beyond-research.md`. Add Markdown between the opening and closing
+`<div>` tags, replacing "Photos coming soon." For example:
 
-```yaml
-photography:
-  - image: assets/img/my-photo.jpg
-    alt: Description of the photo
-    caption: Optional caption
+```markdown
+## My photo
+
+![Description of the photo](/assets/img/my-photo.jpg)
+
+An optional story or caption.
 ```
 
-Use your own filename and describe the image in `alt`; omit `caption` if you
-don't want one.
+Use your own filename and a description of the image between the square
+brackets. Repeat for more photos.
 
 ## Adding a research project
 
