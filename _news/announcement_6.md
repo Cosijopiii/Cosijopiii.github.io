@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to have been awarded **Candidate recognition (SNII C)** by Mexico's Secretariat of Science, Humanities, Technology and Innovation, as part of the National System of Researchers (SNII). This recognition acknowledges my contribution to national development through strengthening and consolidating the country's public capacities in the humanities, sciences, technology, and innovation. It is valid from **January 1, 2027, through December 31, 2030**. Any associated financial support is subject to the applicable requirements and budget availability.
+I am honored to have been awarded **Candidate recognition (SNII C)** by Mexico's Secretariat of Science, Humanities, Technology and Innovation, as part of the National System of Researchers (SNII). This recognition acknowledges my contribution to national development through strengthening and consolidating the country's public capacities in the humanities, sciences, technology, and innovation. It is valid from **January 1, 2027, through December 31, 2030**.
