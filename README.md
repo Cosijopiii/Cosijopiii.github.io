@@ -1,4 +1,13 @@
 # al-folio
+
+## Adding a research project
+
+Create a Markdown file in `_projects/` with `layout: page`, `title`, `description`,
+`category: research`, and `importance` in its front matter. Optionally add `img`
+(an image path), `status`, and `github` (a repository URL). Write the project
+overview and its paper descriptions and links below the front matter. The project
+will appear on the Projects page; the optional GitHub link appears on its card.
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->

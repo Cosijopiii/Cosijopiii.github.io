@@ -132,6 +132,39 @@ body.sticky-bottom-footer {
 /*****************************************************************************
 * Projects
 *****************************************************************************/
+.research-projects,
+.teaching-panels {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  gap: 1.5rem;
+}
+
+.research-project-card {
+  overflow: hidden;
+}
+.research-project-card figure {
+  margin: 0;
+}
+.research-project-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.research-project-card h2,
+.teaching-panel h2 {
+  font-size: 1.5rem;
+}
+
+.teaching-panel h3 {
+  font-size: 1.15rem;
+}
+
+.project-status {
+  color: var(--global-text-color-light);
+  font-size: 0.875rem;
+}
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
