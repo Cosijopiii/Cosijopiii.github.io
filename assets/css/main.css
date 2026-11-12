@@ -310,6 +310,11 @@ blockquote {
   opacity: 0.95;
 }
 
+@media (min-width: 992px) {
+  .navbar .container {
+    max-width: 1100px;
+  }
+}
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
