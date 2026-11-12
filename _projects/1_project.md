@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Workshops
+title: Workshops and presentations
 description: Summary of workshops and presentations
 img:
 importance: 1
-category: work
+category: workshops
 ---
 
 ### La 32.ª Semana de Ingeniería del Instituto de Ingeniería y Tecnología (IIT) de la Universidad Autónoma de Ciudad Juárez (UACJ)

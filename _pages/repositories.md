@@ -1,44 +1,29 @@
 ---
 layout: page
-permalink: /repositories/
-title: Repositories
-description: 
+permalink: /projects/
+title: Projects
+description: Research projects and the papers behind them
 nav: true
 nav_order: 3
 ---
 
-## GitHub users
-
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
+<div class="research-projects">
+  {% assign research_projects = site.projects | where: "category", "research" | sort: "importance" %}
+  {% for project in research_projects %}
+  <article class="card research-project-card">
+    {% if project.img %}
+    {% include figure.html path=project.img alt=project.title %}
+    {% endif %}
+    <div class="card-body">
+      {% if project.status %}<p class="project-status">{{ project.status }}</p>{% endif %}
+      <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+      <p>{{ project.description }}</p>
+      <a href="{{ project.url | relative_url }}">Read about the project</a>
+      {% if project.github %}
+      <span aria-hidden="true"> &middot; </span>
+      <a href="{{ project.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+      {% endif %}
+    </div>
+  </article>
   {% endfor %}
 </div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-  {% if site.data.repositories.github_users.size > 1 %}
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.html username=user %}
-  </div>
-
-  ---
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
