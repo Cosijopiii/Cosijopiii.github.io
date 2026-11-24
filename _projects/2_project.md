@@ -14,6 +14,8 @@ category: courses
   >> Metodo MODI [here](/assets/pdf/modi.pdf)
   >>
   >> Ejemplo Vogel + MODI   [here](/assets/pdf/modi2.pdf)
+>  >
+>  > Ejemplo CPM/PERT [here](/assets/pdf/CPM.pdf)
 
 # Curso 2025-2026B
  
